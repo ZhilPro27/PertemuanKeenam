@@ -1,4 +1,7 @@
 #include <iostream>
+#include <istream>
+#include <string>
+#include <istream>
 using namespace std;
 
 struct DetailAlamat {
